@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aafiya-01&label=Profile%20views&color=0e75b6&style=flat" alt="aafiya-01" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS & JAVASCRIPT**
+- 🌱 I’m currently learning **HTML & CSS**
 
-- 📝 I regularly write articles on [https://aafiyamiraj.blogspot.com/](https://aafiyamiraj.blogspot.com/)
+- 📝 I regularly write articles on [https://aafiyamiraj.blogspot.com/](https://medium.com/@aafiyachoudhary0805)
 
 - 💬 Ask me about **C Language, Python and Graphic Designing**
 
