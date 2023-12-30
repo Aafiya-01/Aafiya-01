@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML & CSS**
 
-- 📝 I regularly write articles on [https://aafiyamiraj.blogspot.com/](https://medium.com/@aafiyachoudhary0805)
+- 📝 I regularly write articles on [https://medium.com/@aafiyachoudhary0805]
 
 - 💬 Ask me about **C Language, Python and Graphic Designing**
 
