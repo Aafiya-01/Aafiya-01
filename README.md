@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aafiya-01&label=Profile%20views&color=0e75b6&style=flat" alt="aafiya-01" /> </p>
 
-- 🌱 I’m currently learning **HTML & CSS**
+- 🌱 I’m currently learning **Front-end development**
 
 - 📝 I regularly write articles on [https://medium.com/@aafiyachoudhary0805]
 
