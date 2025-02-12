@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@aafiyachoudhary0805]
 
-- 💬 Ask me about **C Language, Python and Graphic Designing**
+- 💬 Ask me about **C++, Python and Machine Learning**
 
 - 📫 How to reach me **aafiyachoudhary0805@gmail.com**
 
